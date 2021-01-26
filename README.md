@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**vitokuko/VitoKuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vitokuko/VitoKuko** is a ✨ _special_ ✨.
 
 - 🔭 I’m currently working on Paps
 - 🌱 I’m currently learning FullStack Js
