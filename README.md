@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**vitokuko/VitoKuko** is a ✨ _special_ ✨.
+**souaibou** is a ✨ _special_ ✨.
 
 - 🔭 I’m currently working on Paps
 - 🌱 I’m currently learning FullStack Js
